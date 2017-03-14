@@ -1,0 +1,12 @@
+Папка для стилевых файлов препроцессора scss.
+
+--
+
+Пример структуры файлов:
+
+scss/
+| - style.scss
+| - variables.scss
+| - header.scss
+| - footer.scss
+| - [другие *.scss файлы]

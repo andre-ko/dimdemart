@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  font: 100%/1.5em "PT Sans", sans-serif;
+  color: #ffffff;
+}
+
+.index {
+  background: 
+    url("../img/shadow.png") repeat-x top left,
+    url("../img/overlay.png"),
+    url("../img/bg.jpg") no-repeat top center;
+}
+
+.page__wrapper {
+  margin: 0 auto;
+}
+
+.main__nav {
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+}
+
+.nav__list {
+  display: inline-block;
+  width: 100%;
+  list-style: none;
+  vertical-align: top;
+}
+
+.nav__item_menu {
+  float: left;
+  margin-top: 1.625em;
+  margin-left: 1.625em;
+  width: 12px;
+}
+
+.nav__item {
+  float: right;
+  margin-top: 1.625em;
+  margin-right: 1.625em;
+}
+
+.nav__link {
+  font-size: 0;
+  vertical-align: top;
+}
+
+.icon_menu-index {
+  float: left;
+  display: inline-block;
+  width: 12px;
+  height: 10px;
+  background: url("../img/menu-white.png") no-repeat;
+  opacity: 0.6;
+  vertical-align: top;
+}
+
+.icon_fb-index {
+  display: inline-block;
+  width: 7px;
+  height: 13px;
+  background: url("../img/fb-white.png") no-repeat;
+  opacity: 0.6;
+  vertical-align: top;
+}
+
+.icon_inst-index {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  background: url("../img/inst-white.png") no-repeat;
+  opacity: 0.6;
+  vertical-align: top;
+}
+
+.icon_menu-index:hover,
+.icon_fb-index:hover,
+.icon_inst-index:hover {
+  opacity: 1;
+}
+
+.logo {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.clearfix {
+  content: "";
+  display: table;
+  clear: both;
+}
