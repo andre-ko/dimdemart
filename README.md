@@ -9,4 +9,4 @@
 
 ---
 
-The portfolio website for professional photographer from Paris. The entire project has been built from scratch, from brand identity and web design to WordPress implementation. The website is fully responsive, Retina-ready.
+The portfolio website for professional photographer from Paris. The entire project was built from scratch.
