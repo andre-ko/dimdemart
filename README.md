@@ -5,7 +5,7 @@
 ---
 
 * Title: Dim De Mart Portfolio
-* Domain: [browse site](http://andre-ko.com/travaux/dimdemart/)
+* Domain: [browse site](http://andre-ko.com/travaux/ddm/)
 
 ---
 
